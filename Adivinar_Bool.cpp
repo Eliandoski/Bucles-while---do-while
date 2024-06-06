@@ -40,7 +40,6 @@ int main() {
         int num_usuario;
         cout << "Ingresa tu numero: ";
         cin >> num_usuario;
-        cout << num_aleatorio;
 
         if (num_usuario < num_aleatorio) {
             cout << "El numero que ingresaste es " << num_usuario << ", debes ingresar un numero mayor" << endl;
