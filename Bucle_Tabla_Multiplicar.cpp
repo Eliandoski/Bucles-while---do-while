@@ -8,7 +8,7 @@ using namespace std;
 int main(){
 
     int n;
-    cout<<endl<<"Ingresa el número de la tabla de multipliar: "; 
+    cout<<endl<<"Ingresa el número de la tabla de multiplicar: "; 
     cin >> n;
     
     int k = 12;
