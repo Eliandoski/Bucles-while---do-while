@@ -27,6 +27,7 @@ int main(){
 
         if (num_aleatorio == num_usuario){
             cout<<endl<<"Felicidades! Ganaste una beca en la PUCE Esmeraldas"; return 0;
+            //FALTA ROMPER EL BUCLE CON BREAK
         }else if (num_usuario < num_aleatorio){
             cout<<"El numero que ingresaste es: " << num_usuario << ",debes ingresar un numero mayor" << endl;
         }else{
